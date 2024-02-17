@@ -15,7 +15,7 @@
      <li><a href="manage-admin.php">Admin</a></li>
      <li><a href="manage-categories.php">Category</a></li>   
      <li><a href="manage-food.php">food</a></li> 
-     <li><a href="manage-order,php">order</a></li>   
+     <li><a href="manage-order.php">order</a></li>   
 
 
 
